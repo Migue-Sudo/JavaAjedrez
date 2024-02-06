@@ -8,9 +8,6 @@ package javajedrez;
  *
  * @author javie
  */
-public class AjedrezEstado extends Estado {
-    public void printEstado(Estado e , int px , int py){
-  
+public class Juego2JPTIC {
     
-    }
 }

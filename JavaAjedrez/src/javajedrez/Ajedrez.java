@@ -8,7 +8,7 @@ package javajedrez;
  *
  * @author javie
  */
-public class Ajedrez {
+public class Ajedrez extends Juego2JPTIC {
     private static int[] tableroInicial= {
  7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
  7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,

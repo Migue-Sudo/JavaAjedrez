@@ -8,7 +8,7 @@ package javajedrez;
  *
  * @author javie
  */
-public class AjedrezMovimiento {
+public class AjedrezMovimiento extends Movimiento{
     private int desde;
     private int hasta;
     private boolean captura;
